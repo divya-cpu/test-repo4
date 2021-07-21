@@ -1,0 +1,12 @@
+ cd
+mkdir
+cd 
+git init
+code .
+add files, modifications,
+save it
+git add file name
+git commit -m "folder"
+git remote add origin https://github.com/arunkumar-ramesha/git-learning-start.git
+git push -u origin main
+
